@@ -1,0 +1,13 @@
+.formBox{
+    background-color:rgba(51, 57, 62);
+    color: whitesmoke;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    padding: 40px;
+}
+.homeButton{
+    text-decoration: none;
+}
